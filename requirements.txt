@@ -1,0 +1,14 @@
+boto3
+huggingface-hub
+jupyter
+matplotlib
+mediapipe
+numpy
+opencv-python
+psutil
+requests
+scikit-learn
+seaborn
+torch
+torchvision
+tqdm

@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Coursework videos, derived pose data, and downloaded model assets.
+video-data/
+test-data/
+mediapipe-skeleton/
+expanded/
+*.mp4
+*.npz
+*.npy
+*.task
+*.pt
+*.pth
+
+# Notebook and experiment byproducts.
+runs/
+wandb/
+checkpoints/
